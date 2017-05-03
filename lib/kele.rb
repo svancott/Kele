@@ -1,0 +1,2 @@
+class Kele
+  def initialize
